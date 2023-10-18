@@ -34,7 +34,9 @@ body {
 }
 
 .section__pic-container img{
-	border-radius: 15rem;
+	border-radius: 20rem;
+	width: 700px;
+	height: auto;
 }
 
 ol, ul {
